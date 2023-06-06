@@ -1,0 +1,7 @@
+:Request URI:	https://fusionbrain.ai/api/v1/text2image/run
+:Request URI:	https://fusionbrain.ai/api/v1/text2image/run
+HTTP/1.1 400 Bad Request
+{
+    "statusCode": 400,
+    "message": "Bad request"
+}
